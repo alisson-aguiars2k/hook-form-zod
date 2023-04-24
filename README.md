@@ -1,7 +1,7 @@
 # Construindo um formulário avançado com hook form + zod.
 
 <<<<<<< HEAD
-### [Comfy Store](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
+### [Comfy Store](https://alisson-aguiars2k.github.io/hook-form-zod/) 🔗
 
 ![](./public/asserts/images/hooks-form-01.png)
 ![](./public/asserts/images/hooks-form-02.png)
