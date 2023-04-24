@@ -1,10 +1,5 @@
 # Construindo um formulário avançado com hook form + zod.
 
-<<<<<<< HEAD
-### [Comfy Store](https://alisson-aguiars2k.github.io/hook-form-zod/) 🔗
-
-![](./public/asserts/images/hooks-form-01.png)
-![](./public/asserts/images/hooks-form-02.png)
 ## Descrição do Projeto:
 
 ### A proposta do projeto foi criar um formulario avançado com as seguintes funcionalidades;
@@ -13,6 +8,9 @@
 - [x] Field Arrays
 - [x] Upload de arquivos
 - [x] Composition Pattern
+
+![](./public/asserts/images/hooks-form-01.png)
+![](./public/asserts/images/hooks-form-02.png)
 
 ## Tecnologias que utilizei para o projeto ;
 
