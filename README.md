@@ -1,10 +1,10 @@
 # Construindo um formulário avançado com hook form + zod.
 
+<<<<<<< HEAD
 ### [Comfy Store](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
 
 ![](./public/asserts/images/hooks-form-01.png)
 ![](./public/asserts/images/hooks-form-02.png)
-
 ## Descrição do Projeto:
 
 ### A proposta do projeto foi criar um formulario avançado com as seguintes funcionalidades;
