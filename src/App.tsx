@@ -1,12 +1,3 @@
-/**
- * To-do
- *
- * [x] Validação / Transformação
- * [x] Field Arrays
- * [x] Upload de arquivos
- * [x] Composition Pattern
- */
-
 import { useState } from "react";
 import { useForm, FormProvider, useFieldArray } from "react-hook-form";
 import { PlusCircle, XCircle } from "lucide-react";
@@ -81,7 +72,6 @@ const createUserSchema = z.object({
 });
 
 type CreateUserData = z.infer<typeof createUserSchema>;
-
 export function App() {
   const [output, setOutput] = useState("");
 
