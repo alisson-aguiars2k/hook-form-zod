@@ -1,10 +1,6 @@
 # Construindo um formulário avançado com Hook Form + ZOD.
-
-<<<<<<< HEAD
 ![](./public/asserts/images/hooks-form-02.png)
 
-=======
->>>>>>> 53463d1c3bce52bb36ceef7799b72549cbe402e7
 ## Descrição do Projeto:
 
 ### A proposta do projeto foi criar um formulario avançado com as seguintes funcionalidades;
@@ -14,7 +10,6 @@
 - [x] Upload de arquivos
 - [x] Composition Pattern
 
-<<<<<<< HEAD
 ## Código do Projeto
 ### App.tsx
 ![](./public/asserts/images/App1-38.png)
@@ -52,10 +47,6 @@ Label.tsx
 
 package.json
 ![](./public/asserts/images/package.json.png)
-=======
-![](./public/asserts/images/hooks-form-01.png)
-![](./public/asserts/images/hooks-form-02.png)
->>>>>>> 53463d1c3bce52bb36ceef7799b72549cbe402e7
 
 ## Tecnologias que utilizei para o projeto ;
 
